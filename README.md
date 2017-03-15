@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # mysite
 
 As a class, this is where we'll start for Session 09.
@@ -29,3 +30,7 @@ To get this set up on your machine:
 
 1. Added a metaclass to Categories to make the name in the admin appear as "Categories" instead of "Categorys"
 2. Added __unicode__ methods to both Post and Category classes
+=======
+# webapp_aws
+Django Webapp AWS
+>>>>>>> 577b9e12480c7c7e34a61cae06155609a9d0487a
